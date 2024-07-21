@@ -1,0 +1,9 @@
+.firstrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.secondrow{
+  margin-top:60px;
+  margin-left: 270px;
+}

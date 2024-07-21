@@ -1,0 +1,67 @@
+.headingmain{
+    margin-top:100px;
+    margin-left: 490px;
+    font-size: 35px;
+}
+.maininfo{
+    margin-top:40px;
+    margin-left:520px;
+    font-size: 20px;
+    color:grey;
+    display: flex;
+    flex-direction: column;
+}
+#infoone{
+    margin-left: 150px;
+}
+#infotwo{
+    margin-top: 20px;
+}
+.signup_main{
+    margin-left:400px;
+    margin-top:100px;
+    border:2px solid red;
+    width:600px;
+    height:200px;
+    padding-left: 160px;
+    padding-top: 80px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color:rgb(107, 107, 107)
+}
+#txtemail{
+    margin-left:43px;
+    width:250px;
+}
+#txtpwd{
+    margin-left:11px;
+    width:250px;
+}
+.passwordfield{
+    margin-top:10px;
+}
+.btnstart{
+    margin-top:30px;
+    margin-left: 180px;
+}
+#startbtn{
+    width:100px;
+    height:30px;
+    font-size: 20px;
+    border:none;
+    background-color: red;
+    color:white;
+    border-radius: 5px;
+
+}
+.userfield{
+    margin-top: 10px;
+}
+#userno{
+    margin-left: 20px;
+}
+#userdesign{
+    width: 90px;
+}

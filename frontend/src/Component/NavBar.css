@@ -1,0 +1,27 @@
+.Navbarmain{
+    display: flex;
+    flex-direction: row;
+    padding-left:100px;
+    border: none;
+    background-color: rgb(208, 208, 208);
+}
+#txtwinnoise{
+    font-size: 30px;
+}
+#iconlogo{
+    color:red;
+    margin-left: 5px;
+}
+#signbtn{
+    margin-left:1000px;
+    margin-top:10px;
+}
+#btnsign{
+    width: 100px;
+    height:25px;
+    background-color: red;
+    color: white;
+    font-size: 17px;
+  border: none;
+  border-radius: 5px;
+}

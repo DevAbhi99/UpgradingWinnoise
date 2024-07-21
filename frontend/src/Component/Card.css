@@ -1,0 +1,17 @@
+.userprofile{
+    width:200px;
+    height:200px;
+    background-color: red;
+}
+#imgprofile{
+    width:200px;
+    height:180px;    
+}
+#btnprofile{
+    width:200px;
+    height:30px;
+    background-color: red;
+    color:white;
+    border:none;
+    font-size: 16px;
+}

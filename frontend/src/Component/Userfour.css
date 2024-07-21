@@ -1,0 +1,10 @@
+.second_row{
+    margin-top:60px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 270px;
+    
+}
+#fourthuser{
+    margin-left: 545px;
+}
